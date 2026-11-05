@@ -1,0 +1,12 @@
+{
+  "name": "handanbako-sandbox",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "handanbako の試験用。注文一覧を読む小さな CLI",
+  "engines": { "node": ">=24" },
+  "scripts": {
+    "test": "node --test",
+    "start": "node src/cli.js"
+  }
+}
